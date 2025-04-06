@@ -1,0 +1,23 @@
+.flexblox{
+	display: flex;
+	border: 2px solid blue;
+	background-color: green;
+	width: 25%;
+}
+#lila{
+	
+	padding: 20px;
+	margin:10px;
+	background-color: plum;
+}
+#rosado{
+	padding: 20px;
+	margin:10px;
+	background-color: pink;
+}
+#celeste{
+padding: 20px;
+	margin:10px;
+	background-color:skyblue;
+	}
+
